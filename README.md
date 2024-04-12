@@ -1,10 +1,5 @@
 ### Hi there 👋👋
-I'm working on a project relaged to NLP.
 
-I want to be a Data Engineer.
-So, I am preparing about data with Python.
-
-I want to achieve my dream. Thank you XD
 
 <!--
 **popocari/popocari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
